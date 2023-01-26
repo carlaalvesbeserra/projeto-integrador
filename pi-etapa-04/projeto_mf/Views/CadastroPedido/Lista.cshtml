@@ -1,0 +1,37 @@
+@model List<CadastroPedido>
+
+@{
+    ViewData["Title"] = "Lista de pedidos";
+}
+
+<h1>Lista de pedidos</h1>
+<p>Confira abaixo a lista completa dos pedidos cadastrados.</p>
+
+<table border="1px">
+    <thead align="center">
+        <tr>
+            <th width="100px">Nome</th>
+            <th width="100px">Telefone</th>
+            <th width="100px">Data de entrega</th>
+            <th width="100px">Pedido</th>
+            <th width="100px">Quantidade</th>
+            <th width="100px">Ações</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        @foreach (CadastroPedido cadastropedidoAtual in Model)
+        {
+            <tr>
+                <th>@cadastropedidoAtual.Nome</th>
+                <th>@cadastropedidoAtual.Telefone</th>
+                <th>@cadastropedidoAtual.DataEntrega</th>
+                <th>@cadastropedidoAtual.Pedido</th>
+                <th>@cadastropedidoAtual.Quantidade</th>
+                <th>
+                    <a href="/CadastroPedido/Editar?Id=@cadastropedidoAtual.Id">Editar</a>
+                    <a href="/CadastroPedido/Remover?Id=@cadastropedidoAtual.Id">Remover</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>

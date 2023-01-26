@@ -1,0 +1,40 @@
+@model CadastroPedido
+
+@{
+    ViewData["Title"] = "Cadastro de pedidos";
+}
+
+<h1>Cadastro de pedidos </h1>
+<p>Preencha os dados corretamente para cadastrar o seu pedido.</p>
+
+<form method="POST" asp-action="Cadastro">
+    <p>
+    <label>Nome:</label>
+    <input asp-for="Nome" autocomplete="off" required>
+    </p>
+
+    <p>
+    <label>Telefone:</label>
+    <input asp-for="Telefone" autocomplete="off" required>
+    </p>
+
+    <p>
+    <label>Data de entrega:</label>
+    <input asp-for="DataEntrega" autocomplete="off" required>
+    </p>
+
+    <p>
+    <label>Pedido:</label>
+    <input asp-for="Pedido" autocomplete="off" required>
+    </p>
+
+ <p>
+    <label>Quantidade:</label>
+    <input asp-for="Quantidade" autocomplete="off" required>
+    </p>
+    
+    <input type="reset" value="Limpar">
+    <input type="submit" value="Cadastrar">
+    <br>
+    <p>@ViewBag.Mensagem</p>
+</form>

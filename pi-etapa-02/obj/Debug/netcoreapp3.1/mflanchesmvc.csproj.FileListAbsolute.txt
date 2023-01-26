@@ -1,0 +1,126 @@
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csprojAssemblyReference.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.AssemblyInfoInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.AssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorAssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.exe
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.deps.json
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.runtimeconfig.json
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.runtimeconfig.dev.json
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.dll
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.Views.dll
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.Views.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.TagHelpers.input.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.TagHelpers.output.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorCoreGenerate.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmacao.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorTargetAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorTargetAssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.Views.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\staticwebassets\mflanchesmvc.StaticWebAssets.Manifest.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\staticwebassets\mflanchesmvc.StaticWebAssets.xml
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.dll
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.genruntimeconfig.cache
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csproj.CopyComplete
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.exe
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.deps.json
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.runtimeconfig.json
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.runtimeconfig.dev.json
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.dll
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.Views.dll
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.Views.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csprojAssemblyReference.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.AssemblyInfoInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.AssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorAssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.TagHelpers.input.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.TagHelpers.output.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorCoreGenerate.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmacao.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorTargetAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorTargetAssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.Views.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\staticwebassets\mflanchesmvc.StaticWebAssets.Manifest.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\staticwebassets\mflanchesmvc.StaticWebAssets.xml
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.dll
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.pdb
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.genruntimeconfig.cache
+C:\Users\carla\OneDrive\Área de Trabalho\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csproj.CopyComplete
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.exe
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.deps.json
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.runtimeconfig.json
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.runtimeconfig.dev.json
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.dll
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.pdb
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.Views.dll
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\bin\Debug\netcoreapp3.1\mflanchesmvc.Views.pdb
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csprojAssemblyReference.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.AssemblyInfoInputs.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.AssemblyInfo.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorAssemblyInfo.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorAssemblyInfo.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.TagHelpers.input.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.TagHelpers.output.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorCoreGenerate.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmacao.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorTargetAssemblyInfo.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.RazorTargetAssemblyInfo.cs
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.Views.pdb
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\staticwebassets\mflanchesmvc.StaticWebAssets.Manifest.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\staticwebassets\mflanchesmvc.StaticWebAssets.xml
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.dll
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.pdb
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.genruntimeconfig.cache
+C:\Users\carla\OneDrive\Documentos\SoftMaker\Curso de TI\PI\mflanchesmvc\obj\Debug\netcoreapp3.1\mflanchesmvc.csproj.CopyComplete

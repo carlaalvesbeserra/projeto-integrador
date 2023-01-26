@@ -1,0 +1,24 @@
+@model pipas
+@{
+    ViewData["Title"] = "Fale Conosco";
+}
+<h1>@ViewData["Title"]</h1>
+<form method="POST">
+<p>
+ <label asp-for="Nome">Nome:</label>
+ <input asp-for="Nome"/>
+ </p><p>
+ <label asp-for="Email">Email:</label>
+ <input asp-for="Email"/>
+ </p>
+ <p>
+ <label asp-for="Endereço">Endereço:</label>
+ <input asp-for="Endereço"/>
+ </p>
+ <p>
+ <label asp-for="Assunto">Assunto:</label>
+ <input asp-for="Assunto"/>
+</p>
+  
+  <input type="submit" value="Enviar">
+  </form>

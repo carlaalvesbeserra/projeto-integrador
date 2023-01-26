@@ -1,0 +1,12 @@
+CREATE DATABASE mflanches;
+
+USE mflanches;
+
+CREATE TABLE cadastropedido (
+Id INT PRIMARY KEY AUTO_INCREMENT,
+Nome VARCHAR(30),
+Telefone INT,
+DataEntrega VARCHAR(30),
+Pedido VARCHAR(30),
+Quantidade VARCHAR(30)
+);

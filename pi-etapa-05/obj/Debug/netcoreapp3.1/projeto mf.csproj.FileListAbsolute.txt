@@ -1,0 +1,14 @@
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.csprojAssemblyReference.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.AssemblyInfoInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.AssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.RazorAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto mf\obj\Debug\netcoreapp3.1\projeto mf.RazorAssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.csprojAssemblyReference.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.AssemblyInfoInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.AssemblyInfo.cs
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.RazorAssemblyInfo.cache
+C:\Users\carla\OneDrive\Área de Trabalho\projeto_mf\obj\Debug\netcoreapp3.1\projeto mf.RazorAssemblyInfo.cs

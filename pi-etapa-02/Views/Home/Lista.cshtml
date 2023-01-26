@@ -1,0 +1,40 @@
+@model List<CadastroDePedidos>
+@{
+    ViewData["Title"] = "Lista de Pedidos";
+}
+<h1>@ViewData["Title"]</h1>
+<table>
+    <thead>
+        <tr>
+            <th> Nome </th>
+            <th> Telefone </th>
+            <th> Data </th>
+            <th> Pedido </th>
+            <th> Quantidade </th>
+        </tr>
+    </thead>
+<tbody>
+     @foreach (CadastroDePedidos cadastro in Model)
+{
+    <tr>
+        <td>@cadastro.Nome</td>
+
+        <td>@cadastro.Telefone</td>
+        
+        <td>@cadastro.Data</td>
+
+        <td>@cadastro.Pedido</td>
+
+        <td>@cadastro.Quantidade</td>
+
+    </tr>
+}
+</tbody>
+</table>
+
+<p>
+    <a asp-action="Cadastro">Adicionar outro pedido.</a>
+</p>
+    <footer>
+<p><a href="Index">←</a>&nbsp;</p>
+    </footer>

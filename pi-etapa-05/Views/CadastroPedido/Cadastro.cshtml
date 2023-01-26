@@ -1,0 +1,170 @@
+@model CadastroPedido
+@{
+    ViewData["Title"] = "Cadastro de pedidos";
+    <style>
+        a.navbar-brand {
+            white-space: normal;
+            text-align: center;
+            word-break: break-all;
+            color: #F2A922;
+        }
+
+        .navbar-light .navbar-brand {
+            color: #F2A922;
+        }
+
+        .text-dark {
+            color: #F2A922;
+        }
+
+        .navbar-light .navbar-nav .nav-link {
+            color: #F2A922;
+        }
+
+        a {
+            color: #F2A922;
+        }
+
+        .btn-primary {
+            color: #fff;
+            background-color: #F2A922;
+            border-color: #F2A922;
+        }
+
+        .border-top {
+            border-top: 1px solid #e5e5e5;
+        }
+
+        .border-bottom {
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .box-shadow {
+            box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+        }
+
+        button.accept-policy {
+            font-size: 1rem;
+            line-height: inherit;
+        }
+
+        .nav-item {
+            color: #F2A922;
+        }
+
+        body {
+            background-color: #323E40;
+            color: #F2A922;
+            font-family: 'Fira Sans Condensed', sans-serif;
+            font-family: 'Oswald', sans-serif;
+            font-family: 'Playfair Display', serif;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 50px;
+            font-size: 1.1em;
+            text-decoration: overline;
+        }
+
+        /* links */
+        .link1 {
+            display: inline-block;
+            font-size: 1.1em;
+            text-decoration: none;
+        }
+
+        .link1:visited {
+            color: #F2A922;
+        }
+
+        .link1:hover {
+            color: black;
+        }
+
+        .link2 {
+            display: inline-block;
+            font-size: 0.9em;
+            text-decoration: none;
+        }
+
+        .link2:visited {
+            color: #F2A922;
+        }
+
+        .link2:hover {
+            color: black;
+        }
+
+
+        label {
+            margin-top: 20px;
+            font-size: 1em;   
+        }
+
+        .cadastro {
+            font-size: 1em;
+            text-align: center;
+        }
+
+        .botao-cadastro {
+            width: 150px;
+            margin-top: 20px;
+            margin-bottom: 50px;
+            font-weight: bold;
+            background-color: #732002;
+            color: #F2A922;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .botao-cadastro:hover {
+            -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+        }
+
+        input {
+            width: 300px;
+            font-size: 0.9em;
+        }
+
+        /*footer*/
+
+        .copyright {
+            position: absolute;
+            margin-left: 660px;
+            padding-bottom: 30px;
+        }
+    </style>
+
+
+}
+
+<h1>Cadastro de pedidos </h1>
+<p>Preencha os dados corretamente para cadastrar o seu pedido.</p>
+
+<form asp-action="Cadastro" class="cadastro" id="campos">
+    <p>
+        <label>Nome:</label>
+    </p>
+    <input id="nome" asp-for="Nome" autocomplete="off" required placeholder="Digite seu nome">
+    <p>
+        <label>Telefone:</label>
+    </p>
+    <input type="number" id="tel" asp-for="Telefone" autocomplete="off" required>
+    <p>
+        <label>Data de Retirada:</label>
+    </p>
+    <input id="data" type="date" asp-for="DataEntrega" autocomplete="off" required>
+    <p>
+        <label>Pedido:</label>
+    </p>
+    <input type="number" id="pedido" asp-for="Pedido" autocomplete="off" required placeholder="Digite o código do pedido desejado">
+    <p>
+        <label>Quantidade:</label>
+    </p>
+    <input id="quantidade" type="number" asp-for="Quantidade" autocomplete="off" required>
+
+    <p><input class="botao-cadastro" type="submit" value="Cadastrar" onclick="cadastrar()"></p>
+</form>
