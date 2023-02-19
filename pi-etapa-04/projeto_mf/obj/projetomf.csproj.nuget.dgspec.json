@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carla\\OneDrive\\Documentos\\SoftMaker\\Curso de TI\\PI\\etapa 4\\projeto_mf\\projetomf.csproj": {}
+    "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-04\\projeto_mf\\projetomf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carla\\OneDrive\\Documentos\\SoftMaker\\Curso de TI\\PI\\etapa 4\\projeto_mf\\projetomf.csproj": {
+    "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-04\\projeto_mf\\projetomf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carla\\OneDrive\\Documentos\\SoftMaker\\Curso de TI\\PI\\etapa 4\\projeto_mf\\projetomf.csproj",
+        "projectUniqueName": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-04\\projeto_mf\\projetomf.csproj",
         "projectName": "projetomf",
-        "projectPath": "C:\\Users\\carla\\OneDrive\\Documentos\\SoftMaker\\Curso de TI\\PI\\etapa 4\\projeto_mf\\projetomf.csproj",
+        "projectPath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-04\\projeto_mf\\projetomf.csproj",
         "packagesPath": "C:\\Users\\carla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carla\\OneDrive\\Documentos\\SoftMaker\\Curso de TI\\PI\\etapa 4\\projeto_mf\\obj\\",
+        "outputPath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-04\\projeto_mf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carla\\AppData\\Roaming\\NuGet\\NuGet.Config"

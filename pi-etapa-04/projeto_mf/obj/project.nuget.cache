@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CZrpGilTrc8xzz87yHn2mkZuDSuGK3A/XLBiigygIHH3svZNZE3rmq8TnZbM5w9EHlKu57ocojO/5WxERUNIGw==",
+  "dgSpecHash": "5VyozV+fR6L2NGuDnqQui+YhS43gdzpDnzEo82FWb5yZ48X0gClqWVHBWAyCiAnXo7t9ysAlqeR07wcIZx2TXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carla\\OneDrive\\Documentos\\SoftMaker\\Curso de TI\\PI\\etapa 4\\projeto_mf\\projetomf.csproj",
+  "projectFilePath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-04\\projeto_mf\\projetomf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carla\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
     "C:\\Users\\carla\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"

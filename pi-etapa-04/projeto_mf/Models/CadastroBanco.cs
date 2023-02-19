@@ -110,7 +110,6 @@ namespace projeto_mf.Models
 
             conexao.Close();
             return cadastropedido;
-        }
 
 
 

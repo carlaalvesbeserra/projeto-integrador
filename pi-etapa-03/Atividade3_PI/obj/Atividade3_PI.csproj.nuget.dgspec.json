@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valdecir\\Desktop\\Atividade3_PI\\Atividade3_PI.csproj": {}
+    "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-03\\Atividade3_PI\\Atividade3_PI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valdecir\\Desktop\\Atividade3_PI\\Atividade3_PI.csproj": {
+    "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-03\\Atividade3_PI\\Atividade3_PI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valdecir\\Desktop\\Atividade3_PI\\Atividade3_PI.csproj",
+        "projectUniqueName": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-03\\Atividade3_PI\\Atividade3_PI.csproj",
         "projectName": "Atividade3_PI",
-        "projectPath": "C:\\Users\\valdecir\\Desktop\\Atividade3_PI\\Atividade3_PI.csproj",
-        "packagesPath": "C:\\Users\\valdecir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valdecir\\Desktop\\Atividade3_PI\\obj\\",
+        "projectPath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-03\\Atividade3_PI\\Atividade3_PI.csproj",
+        "packagesPath": "C:\\Users\\carla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-03\\Atividade3_PI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valdecir\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\carla\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
         }
       }
     }

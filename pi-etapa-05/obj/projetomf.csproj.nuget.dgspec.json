@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carla\\OneDrive\\Área de Trabalho\\pi-etapa-05\\projetomf.csproj": {}
+    "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-05\\projetomf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carla\\OneDrive\\Área de Trabalho\\pi-etapa-05\\projetomf.csproj": {
+    "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-05\\projetomf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carla\\OneDrive\\Área de Trabalho\\pi-etapa-05\\projetomf.csproj",
+        "projectUniqueName": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-05\\projetomf.csproj",
         "projectName": "projetomf",
-        "projectPath": "C:\\Users\\carla\\OneDrive\\Área de Trabalho\\pi-etapa-05\\projetomf.csproj",
+        "projectPath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-05\\projetomf.csproj",
         "packagesPath": "C:\\Users\\carla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carla\\OneDrive\\Área de Trabalho\\pi-etapa-05\\obj\\",
+        "outputPath": "C:\\Users\\carla\\OneDrive\\Documentos\\cursos\\curso-senac\\projeto-integrador\\pi-etapa-05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carla\\AppData\\Roaming\\NuGet\\NuGet.Config"
